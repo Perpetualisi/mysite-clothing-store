@@ -1,0 +1,50 @@
+{
+  "1": {
+    "name": "Classic White Tee",
+    "price": 5000,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=800&auto=format&fit=crop",
+    "description": "A soft, breathable cotton tee that fits well and lasts. A wardrobe essential."
+  },
+  "2": {
+    "name": "Denim Jacket",
+    "price": 15000,
+    "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?q=80&w=800&auto=format&fit=crop",
+    "description": "Classic denim with a modern cut. Layers well over anything."
+  },
+  "3": {
+    "name": "Black Hoodie",
+    "price": 12000,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=800&auto=format&fit=crop",
+    "description": "Heavyweight cotton fleece, relaxed fit, built for everyday comfort."
+  },
+  "4": {
+    "name": "Slim Fit Jeans",
+    "price": 10000,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=800&auto=format&fit=crop",
+    "description": "Tailored slim fit denim that moves with you. True to size."
+  },
+  "5": {
+    "name": "Leather Ankle Boots",
+    "price": 22000,
+    "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?q=80&w=800&auto=format&fit=crop",
+    "description": "Genuine leather boots with a comfortable sole, built to last through every season."
+  },
+  "6": {
+    "name": "Wool Overcoat",
+    "price": 35000,
+    "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?q=80&w=800&auto=format&fit=crop",
+    "description": "A tailored wool-blend overcoat for cooler days — structured, warm, and timeless."
+  },
+  "7": {
+    "name": "Silk Button-Up Shirt",
+    "price": 18000,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&w=800&auto=format&fit=crop",
+    "description": "A smooth silk-blend shirt that drapes well, perfect for dressing up or down."
+  },
+  "8": {
+    "name": "Leather Belt",
+    "price": 7000,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+    "description": "Full-grain leather belt with a classic buckle — a small detail that pulls an outfit together."
+  }
+}
